@@ -1,3 +1,3 @@
-# Learing
+# Learning
 算法竞赛入门经典
 一个菜鸡的成长过程
